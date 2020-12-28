@@ -56,4 +56,5 @@ describe('Point', () => {
       expect(result).to.equal(0);
     });
   });
+  // sad
 });
